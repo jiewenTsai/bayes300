@@ -9,7 +9,7 @@ nav:
     
 
 theme: 
-  name: readthedocs
+  name: material
   user_color_mode_toggle: true
   features:
     - navigation.sections
@@ -32,6 +32,7 @@ extra_javascript:
 
 plugins:
   - search
+  - blog
   - mkdocs-jupyter
   #- mknotebooks:
   #    enable_default_jupyter_cell_styling: true
