@@ -4,7 +4,6 @@ nav:
   - About: about.md
   - Notes:
     - index.md
-    - polya_gamma.ipynb
   - Blog:
     - blog/index.md
     
