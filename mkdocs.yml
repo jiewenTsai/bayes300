@@ -5,8 +5,8 @@ nav:
   - Notes:
     - index.md
     - polya_gamma.ipynb
-  - Blog:
-    - blog/index.md
+  #- Blog:
+  #  - blog/index.md
     
 
 theme: 
