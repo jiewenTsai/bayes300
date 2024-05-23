@@ -32,10 +32,8 @@ extra_javascript:
 
 plugins:
   - search
-  #- mkdocs-jupyter
-  - mknotebooks:
-      enable_default_jupyter_cell_styling: true
-      enable_default_pandas_dataframe_styling: true
-  #- tags
-  #- blog:
-  #    blog_dir: .
+  - mkdocs-jupyter
+  #- mknotebooks:
+  #    enable_default_jupyter_cell_styling: true
+  #    enable_default_pandas_dataframe_styling: true
+
