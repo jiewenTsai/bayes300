@@ -33,7 +33,7 @@ extra_javascript:
 
 plugins:
   - search
-  - blog
+  #- blog
   - mkdocs-jupyter
   #- mknotebooks:
   #    enable_default_jupyter_cell_styling: true
