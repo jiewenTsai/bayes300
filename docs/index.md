@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# 關於「貝氏統計 300 則」bayes300
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+-   Author. JW
+-   Date. May 23, 2024
 
-## Commands
+一、這個記事本，主要就是收錄我在貝氏統計的學習過程中，相關的練習紀錄、學習材料等等。凡事跟貝氏有關的觀念釐清、模型介紹、程式語法等等，都是收錄範圍。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+二、使用語言，以中文為主。因為這個性質是學習筆記、不是教學講義。
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+三、寫作體裁，以食譜體 recipe 為主。就是 Problem-Solution-Discussion 三段結構。
